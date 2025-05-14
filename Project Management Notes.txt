@@ -1,0 +1,1031 @@
+About the course organization: 
+	- https://gtf.pt/index.php/en/
+	- https://www.facebook.com/theimtf
+	-https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Finstitutemtf%2F&is_from_rle
+	- https://www.linkedin.com/school/mtfinstitute/
+
+
+
+
+Content
+
+3. Introduction to Project and Agile & Flexible Approaches
+4. Functions of PM, Waterfall and Agile Approaches
+5. Scrum and Kanban flexible Approaches
+6. Frameworks overview: Change Management, Event Chain, Lean, Six Sigma
+7. Examples of PM and Agile approaches at Software and Product Development
+8. Examples of PM and flexible approaches in IT
+
+
+
+
+3. Introduction to Project and Agile & Flexible Approaches
+==========================================================
+
+Content
+-------
+- What is Project management
+- Steps or stages of PM
+- Advantages
+- Standards
+- Approaches to managing project lifecycle
+
+
+
+What is Project management?
+---------------------------
+Project management is a methodology for planning, organizing and implementing project activities. Project management is primarily a practical tool that allows you to effectively implement projects. A project is an event (or process) with clearly defined deadlines, the purpose of which is to create a unique product or get some innovative results.
+
+
+
+A seemingly intricate project management systemencompasses a series of sequential steps
+---------------------------------------------------------------------------------------
+- Defining and forming project requirements
+- Setting clear and understandable goals
+- Establishing communication - communication format and platforms
+- Balancing project constraints - budgets, resources, risks, deadlines and quality ensurance
+- Engaging with the team - understanding the teams needs, preferences and expectations while adjusting plans based on feedback and insides
+
+
+Stages
+------
+Introduction - This phase marks the project's commencement. Defining the project essence, goals and choosing a suitable team members.
+
+Planning - Undoubtedly crucial, planning constitutes a substantial portion of project management. Break down the project to tasks, create tasks schedule, set deadlines and identify the necessary resources.
+
+Execution and control/implementation - This stage alternates with planning. Ideally, tasks are assigned, executed, monitored, and adjustments are made as needed. Tasks are assigned, executed, monitored and adjustments are made as needed. Delegations, time management, techniques, eisenhower matrix (task board) and tasks prioritization.
+
+Completion - The project concludes with a thorough review of the completed work. Documentation, initial instructions, and guidelines are saved for future reference.
+
+
+
+Advantages of project management
+--------------------------------
+
+Enhanced collaboration - Effective collaboration is crucial for achievinggoals, but it can be challenging due to diverse communication styles and organizational approaches. Make sure to get in the team communication styles and represent overall status of the tasks and the progress of the project.
+
+Centralized information - Communication through various channels like email and chats can lead to information fragmentation. PM consolidates all project data including deadlines, updates, reviews and queries into one accessable hub.
+
+Efficient task management - Clarity in task responsibility and deadlines is essential for project success. PM collect all management requirements and tools and try to make them in one and easier to work with.
+
+Reliable source of information - Project management software becomes the primary repository of project-related data. PM collect all data, deadlines and crutial information and create accessable tool for all members of the team - Kanban dashboard with roles, ownership, responsible team members etc.
+
+Increased productivity - By combining these advantages, a significant overall gain is achieved: teams can work more efficiently and swiftly. 
+
+Progress tracking - Project completion is not the sole objective. Ensuring the project aligns with objectives, budget and deadlines is crucial. Usually project management software tools covers these functionalities - monitoring deadlines, progress, expences and generate reports etc. This activities prevent deviations and enable quick intervention of issues arise.
+
+
+
+
+Standards in project management
+-------------------------------
+
+Public standards - Developed and adopted by specialized professional societies, these standards offer widely accepted best practices. Specialized software tools for the specific project. They can be used in different sectors - IT, Sales, Production etc.
+
+Corporate standards - Companies formulate these standards for internal use, tailoring them to suit their specific operations and projects to ensure consistency and efficiency of the organization.
+
+Private standards - Tailored to specific projects, these standards are customized to meet unique requirements and challenges. Unique products require unique standards.
+
+
+
+
+Approaches to managing project lifecycle
+----------------------------------------
+
+- Predictive approach - This approach involves detailed planning of tasks, budgets, and deadlines right from the start. Making changes in this approach can be challanging, because it may require adjustments into the entire interconnected planning system. This approach is suitable for project product is well defined and understood.
+
+Example: Constructing a traditional office building where the design, construction phases, and materials are pre-determined and planned in advance.
+
+
+- Iterative-incremental approach - In this approach, the project team repeats certain project operations as needed to achieve the desired result.
+
+Example: Developing a software application in multiple iterations, where each iteration builds upon the previous one by adding new features and improvements.
+
+- Agile approach - This flexible approach is used in fields where requirements change rapidly. It incorporates elements of interactivity and incrementality. Allows teams to respond swiftly to changing conditions and customer feedback.
+
+Example: Developing a mobile app in an agile manner, where features and functionalities are continuously adapted based on user  eedback and market trends.
+
+- Hybrid approach - This approach combines elements from different methods to create a customized lifecycle that best fits the project's unique needs. It allows organizations to balance the benefits of different approaches while adapted to a specific project requirements.
+
+Example: Implementing a hybrid approach in a construction project that combines predictive planning for architectural design with agile methods for interior furnishings, allowing for adjustments based on client preferences.
+
+
+
+
+
+
+4. Functions of PM, Waterfall and Agile Approaches
+==================================================
+
+Content
+-------
+Functions of PM
+Waterfall methodology
+Agile methodology
+
+
+Key functions of project management
+-----------------------------------
+
+Project management involves range of functions and methods that aim to effectivelly plan, execute and complete projects while meeting specific goals and objectives. This functions and methods provides a structured framework for project teams to work and deliver successful  outcomes.
+
+Functions and Methods:
+
+- Planning - Effective planning has crutial effect for the project success. It involves defining project goals, scope, tasks, timelines and resource allocation. Project Managers are using various techniques like work brakedown structure, Gantt charts to plan tasks and activities.
+
+Example: Planning the launch of a new product involves creating a timeline with tasks like market research, product  evelopment, marketing campaigns, and distribution logistics. 
+
+
+- Organizing - Involves structuring teams, allocating resources, defining roles and responsibilities. Project Manager ensure that each team member understand their tasks and how they contribute to the project overall success. 
+
+Example: In a construction project, organizing includes assigning roles like architects, engineers, contractors, and  aborers, and coordinating their efforts to complete different aspects of the project.
+
+
+- Execution - Putting the plan into action. Project Managers monitor progress, manage resources and address any issues or changes that arise during the execution process.
+
+Example: During the execution of a software development project, the development team codes and tests the software based on the project requirements and specifications.
+
+
+- Monitoring and control - Tracking project progress against the plan, identifying deviation and taking corrective actions to keep the project on track. Regular assessments are conducted to assure that the project is meeting its goals.
+
+Example: In a marketing campaign, monitoring and control involve tracking key performance indicators (KPIs) like website traffic, click-through rates, and conversion rates to adjust strategies as needed.
+
+
+- Communication - Effective communication is essential for keeping stakeholders informed, managing expectations and addressing concerns. Project Managers facilitate clear and consistent communication among team members, stakeholders and clients.
+
+Example: In a construction project, regular communication updates are sent to clients regarding milestones achieved, any delays encountered, and changes in project scope or budget.
+
+
+- Risk management - Identifying, analysing and mitigating is a critical function in project management. Project Managers assess potential risks and develop strategies to minimize their impact on the project objectives.
+
+Example: A manufacturing project may identify supply chain disruptions as a potential risk and develop backup suppliers to ensure a steady flow of materials.
+
+
+- Quality assurance - Ensuring that project deliverables meets quality standards is essential. Involve conducting inspections, tests and reviews to verify that the work meet predefined quality criteria.
+
+Example: In a software development project, quality assurance involves conducting rigorous testing to identify and fix any bugs or defects before the software is launched.
+
+
+- Closure - Finalizing all activities, delivering the project outcomes to the client and conducting post project review to assess the project success and identify lessons learned.
+
+Example: At the end of a construction project, a final walkthrough is conducted to ensure that all aspects of the project are complete and meet the client's expectations.
+
+
+
+Approaches to project management
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Classical Project Management (Waterfall) 
+----------------------------------------
+- The classical project management approach, often referred to as the "waterfall" model, is considered the traditional method and was the earliest to emerge. The term "waterfall" refers to the sequential flow of work according to the initially formulated plan.
+
+The work progesses in a predifined sequence. First Planning then Execution acording to the plan. Changes in a course of work is typically discouraged as alteration suggest oversite or error in the part of the project manager or team.
+
+The Waterfall method scheme:
+- - - - - - - - - - - - - - 
+Requirements
+	   Design
+		Implementation
+			   Testing
+				Deployment & Maintenance
+
+The Waterfall methodology adheres to the principle of "measure twice, cut once." Itssuccess hinges on meticulous upfront work, which involves thoroughdocumentation of user interfaces, user stories, and variations in features andoutcomes.
+
+Example Stages in Waterfall Project Management:
+- - - - - - - - - - - - - - - - - - - - - - - -
+- Requirements gathering - In this initial phase, the project team works closely with the client to gather all the requirements for the e-commerce website. This includes features, design preferences, user interfaces, and any other specifications.
+
+- System design - Once the requirements are well-documented, the team moves on to designing the system. This includes creating detailed technical specifications, database designs, and system architecture diagrams. The design phase typically results in a comprehensive system blueprint.
+
+- Implementation - With the design phase completed, development begins. Developers start writing code based on the design specifications. They build the various components of the e-commerce website, such as the front-end, back-end, and database, following the predetermined plan.
+
+- Testing - After the development phase, thorough testing is conducted. This includes unit testing, integration testing, and system testing to ensure that each component works as expected and that the entire system functions correctly. Bugs and issues are identified and addressed during this phase.
+
+- Deployment - Once the system has passed all testing phases and is considered stable and ready for production, it is deployed to a live environment. The e-commerce website becomes accessible to users.
+
+- Maintenance and support - After deployment, ongoing maintenance and support are provided. This includes addressing any issues that arise in the live environment, making updates, and adding new features as needed.
+
+
+Advantages							Disadvantages
+- - - - - - 							- - - - - - - 
+Clear advantages						- Its rigidity can lead to delayed projectdelivery
+Well-defined structure						- Client uncertainty at the outset can resultin late-stage 
+Proven track record					  	  requests for changes
+Ability to catch design errors early				- Limited client involvement in design andimplementation stages 
+Accurate cost and timeline estimatesMeasurable progress	  	  and potentialdelays due to phase setbacks are otherdrawbacks of 
+Ease of onboarding for new teammembers			  	  this approach
+
+
+
+Agile Project Management
+------------------------
+- Flexibility as a Priority - Agile project management operates under the premise that in situations of high uncertainty common to projects, attempting to definitively determine the final result is futile. Rigidity in deadlines and budget will likely lead to deviations regardless.
+
+Agile preoritizes itorated development where the portion of intended work is implemented over short timeframe. Feedback is collected, the results are analyzed and the approach adjasted accordingly. This methodology knowledge the certainty of receiving new information and likelihood of shifting project goals and tasks. The Agile approach often find expression in frameworks like SCRUM, work iterations know as sprints with continuous monitoring of the project current status and evolving circumstances.
+
+Agile project management is a dynamic approach to project execution that revolves around continuous collaboration and iterative work cycles. It operates on the principle that projects can evolve and adapt throughout their lifecycle to respond to changes swiftly.
+
+Its benefits:
+- - - - - - -
+
+- Rapid progress - Agile uses project phase durations, rely on real time feedback and the creational prototypes during the process.
+
+- Customer and stakeholder alignment - By prioritizing customers and stakeholders concerns, agile teams produce results that satisfy every point of view.
+
+- Continuous improvement - Agile nature enables gradual progress towards the optimal outcome.
+
+
+
+Types of Agile methodologies
+- - - - - - - - - - - - - - -
+- Scrum - Ideal for projects with evolving requirements, Scrum employs shortsprints to facilitate rapid changes.
+- Kanban - Visualizes progress and suits tasks requiring consistent output.
+- Lean - Eliminates waste for customer value by streamlining processes.
+- Extreme Programming (XP) - Enhances software quality and customer satisfaction.
+- Adaptive Project Framework (APF) - Adapts to evolving client needs, suited for projects with uncertain details.
+
+Compared to traditional methods like Waterfall, Agilemethodologies offer greater flexibility.
+
+
+Agile in Software Development
+-----------------------------
+Aiming for adaptable high quality software products that prioritize customer involvment. Agile teams react quickly to changes expirit product delivery in a flourish and collaborative environment.
+
+Agile Software Development Life Cycle:
+- Concept - Define project scope and priorities
+- Inception - Build an Agile team based on project requirements
+- Iteration - Develop code considering customer feedback
+- Release - Test code and resolve issues
+- Maintenance - Provide ongoing tech support
+- Retirement - Transition to new projects
+
+Agile Beyond Software Projects
+------------------------------
+Agile methodology extends beyond software.Examples include:
+- Marketing Campaigns - Cross-functional teams address marketingtasks using sprints and task backlogs
+- Event planning - Agile aids event planning with sprints andclear strategic directions
+- Product development - Agile's principles apply to physical products,focusing on customer needs
+
+
+
+Implementing Agile Methodology
+------------------------------
+1. Choose the right framework
+2. Assemble an Agile Team
+3. Plan the project
+4. Manage stakeholder expectations
+5. Measure success
+
+
+
+
+
+
+
+5. Scrum and Kanban flexible Approaches
+=======================================
+
+Content
+-------
+Scrum
+Kanban
+
+
+Scrum
+=-=-=
+Scrum is a widely used framework in the field of agile project management that aims to enhance the efficiency, flexibility, and collaboration of teams when developing products or delivering projects. It was originally introduced as an approach to software development but has since found applications in various industries beyond IT.
+
+Based on principals of transparency, inspection and adaptation. It provides a structured ways for teams to work together in iterative and incremental manned, allow them to respond quickly to changes and deliver valuable outcomes. SCRUM encourage continious improvement, close communication between team members, stakeholders and the customers.
+
+
+Key concepts of Scrum
+---------------------
+- Roles:
+	- Scrum master: The Scrum Master is responsible for ensuring that the Scrum framework is implemented effectively and that the team follows Scrum practices. Fasilitate meetings, remove opsticles and promote the culture of continious improvement.
+
+	- Product owner: The Product Owner represents the stakeholders and is responsible for defining and prioritizingthe project's requirements. Communicate the vision, manage the product backlog and ensure that the team delivers the value to customers. 
+
+- Artifacts:
+	- Product backlog: A dynamic list of all the features, enhancements, and changes that needto be implemented in the project. The items are prioritized by the product owner.
+	- Sprint backlog: The set of tasks and user stories selected from the product backlog for aspecific iteration or "sprint". It guides the teams work fot that sprint.
+	- Increment: At the end of each sprint, a potentially shippable product increment isproduced, which includes all the features completed during that sprint.
+
+- Events
+	- Sprint - period of 2-4 weeks that the team work to complete the tasks that were defined in the sprint backlog.
+	- Daily scrum (daily standup) - every member deiscus what they have worked on on the previous day, what they plan to work on the next and any opsticals they are facing.
+	- Sprint planning - a meeting held in the beggining of a sprint where the team selets items from the product backlog to include in the sprint backlog and defines how they will be implemented.
+	- Sprint review - a meeting of the end of the sprint where the team presents the completed work to the stakeholders and gathers feedbacks.
+	- Sprint retrospective - a meeting held after the srint review wherer the team reflect on the sprint and identifies ways to improve they processes in the future.
+
+	Scrum's iterative approach allows teams to adapt to changing requirements andpriorities, resulting in more flexible and responsive project outcomes. Scrum is a powerful framework that empowers teams to manage complex projects efficiently while and delivering value and ensuring customers satisfaction.
+
+
+Roles
+-----
+
+- Product owner - 
+
+Example: Sarah is the Product Owner for a software development project. She represents the stakeholders and works closely with the development team to define and prioritize the features and requirements for the product.
+
+
+
+- Scrum master - 
+
+Example: John is the Scrum Master for a marketing campaign project. He guides the team in following Scrum practices, facilitates meetings, and ensures that any obstacles the team faces are addressed.
+
+
+
+- Development team - 
+
+Example: The development team consists of software engineers, designers, and testers who collaborate to create the product increment. In a project developing a mobile app, this team might include UI/UX designers, front-end and back-end developers, and quality assurance testers.
+
+
+
+- Stakeholders -
+
+Example: In a project to develop a new e-commerce website, stakeholders might include business owners, marketing managers, and customer support representatives. They provide input, feedback, and requirements to the Product owner.
+
+
+- Customers/Users -
+
+Example: For a project creating a new online banking customers system, the bank's and users would be the end beneficiaries of the product. Their feedback and needs are taken into consideration throughout the development process.
+
+
+- Subject matter experts - 
+
+Example: A medical software development project might involve medical doctors as SMEs. They provide insights and expertise to ensure that the product meets the industry's standards and addresses the needs of healthcare professionals.
+
+
+- Technical leads - 
+
+Example: In a project to develop a complex software application, technical leads may include senior developers or architects who guide the team in making technical decisions and ensure the architecture aligns with the project's goals.
+
+
+- Designers - 
+
+Example: In a project to redesign a company's website, designers would be responsible for creating the visual elements, layout, and user experience to enhance the site's appeal and functionality.
+
+
+- Testers/QA analysts - 
+
+Example: In a project for a mobile game development, testers would rigorously test the game on different devices to identify bugs, ensure smooth gameplay, and provide a high-quality user experience.
+
+
+- Content creators/writers - 
+
+Example: In a project to launch a new blog platform, content creators and writers would be responsible for generating engaging and relevant articles that align with the platform's target audience.
+
+Those roles collaborates closely in the project lifecycle to ensure that the product meet the requirements and delivered on time to stakeholders and customers. Effective communication and collaboration among this members are essential and crucial for successful scrum implementation.
+
+
+
+Scrum ceremonies with examples
+------------------------------
+EVENTS
+
+- Sprint planning - 
+
+Purpose: To determine what can be accomplished in the upcomingsprint and how it will be achieved.
+Example: The development team and the Product Owner meet toselect user stories from the product backlog for the next sprint. Theydiscuss the details, clarify requirements, and estimate the effortrequired for each story.
+
+
+- Daily standup (Daily Scrum) -
+
+Purpose: To synchronize the team's activities and identify anyimpediments
+Example: The development team gathers every day for a 15-minute meeting. Each team member answers three questions: What did Iaccomplish yesterday? What will I work on today? Are there anyobstacles preventing me from progressing?
+
+
+- Sprint review -
+
+Purpose: To inspect the increment created during the sprint andgather feedback from stakeholders.
+Example: At the end of a two-week sprint, the development team presents the completed features tostakeholders, including the Product Owner and customers.Feedback is collected, and potential improvements or changes arediscussed.
+
+
+- Sprint retrospective -
+
+Purpose: To reflect on the previous sprint and identify areas for improvement in the team's processes.
+Example: The team discusses what went well during the sprint andwhat challenges were faced. They identify actions to address issuesand improve their working methods for the next sprint.
+
+
+- Backlog refinement (Grooming) -
+
+Purpose: To review, update, and prioritize items in the productbacklog to ensure they are ready for future sprints.
+Example: The development team and the Product Owner meet toreview and clarify upcoming user stories. They estimate story points, break down complex stories, and ensure that the backlog items are well-prepared for inclusion in future sprints
+
+
+- Release planning -
+
+Purpose: To plan the scope and timing of releases based on the product backlog and business priorities.
+Example: The team collaborates with stakeholders to determine which backlog items will be included in the upcoming release. They estimate the effort required and create a release plan that outlines the features to be delivered.
+
+
+
+
+Kanban and its board
+--------------------
+
+Kanban is a visual and flexible method of workflow management that originated from the manufacturing processes of the Toyota production system. It has been adapted in various industries including software development, Project Management and service delivery. Kanban comes from Japanese and it is translated to 'visual signal work card'. Kanban focuses on improving efficiency, reducing waste and optimising processes by visualizing the workflow, limiting work in progress and promoting continuous improvement. The prime goal of Kanban is to create a smooth and efficient workflow while allow teams to adapt change of requirements and priorities.
+
+
+	Story			To Do				In Progress			Done
+	-----			------				-----------			----
+	task 4			task 3				task 2				task 1
+	task 5			task 8				task 7				task 6
+	task 9
+
+
+
+Key principles and concepts
+- - - - - - - - - - - - - - 
+- Visualizing workflow - Kanban relies on visual representations of work items, often using cards or sticky notes on a board to provide a clear and easily understandable view of the entire workflow. Each stage of the process is represented as a column on the board, allows the team members to see the status of each task at the glance.
+
+- Limiting work in progress - To prevent overloading the team and to maintain a steady workflow, Kanban imposes limits on the number of tasks or items that can be in progress simultaneously at each stage. This helps prevent bottlenecks, reduce context switching and encourage the focus on completing tasks before starting new ones.
+
+- Managing flow - Kanban emphasizes the smooth and continuous flow of work items through the various stages of the process by identifiing bottlenecks and inefficienties, teams can optimize they workflow and acheave more predictable and timely delivery of work.
+
+- Continuous improvement - Teams using Kanban are encouraged to regularly review and analyze their processes to identify areas for improvement. Changes are made incrementally to the workflow based on data and feedback, fostering of culture of continuous learning and adaptation.
+
+- Explicit policies - Kanban promotes the use of explicit policies for each stage of the workflow, defining criteria for moving tasks from one stage to the next. This policy provides clarity and consistency in decision making and ensure that the work progresses smoothly.
+
+Kanban is not limited to a specific Project Management methodologies and it can be used in various contexts making it restyl approach for managing work, so the teams can adopt Kanban principals and practices on their own pase.
+
+
+Steps to effectively visualize and manage the workflow
+------------------------------------------------------
+1.Select a tool or setup
+2.Identify workflow stages
+3.Create columns
+4.Visualize tasks
+5.Move tasks
+6.Set WIP (work in progress) limits
+7.Focus on continuous improvement - regular board review for improvement (stuck tasks, overloaded stages)
+8.Hold daily standup meetings
+9.Prioritize and assign tasks - make sure that the right tasks are beeing worked on the right time
+10.Analyze data - make report
+11.Adapt and evolve - adjust the board and make changes for the made progress
+12.Celebrate achievements - greets the teams, knowledge the complete work and milestones
+
+Using Kanban board for Project Management provides visability, reduces work overload because we always see the number of tasks we have done or the team should do and it promotes continious improvement. Its a powerful tool that ensures that the project progresses smoothly and efficiently while focus on delivering value.
+
+
+
+
+6. Frameworks overview: Change Management, Event Chain, Lean, Six Sigma
+=======================================================================
+
+Content
+-------
+Change management
+Event Chain methodology
+Lean methodology
+Six Sigma
+
+
+
+Change management
+-----------------
+
+Change management methods direct the team's focus toward risks, negative scenarios and adjustments.
+
+Event Modeling (Event Chain Methodology, ECM)
+The objective is to construct a realistic scenario and discern how anticipated externalevents will impact speed and feasibility.
+
+Extreme Project Management (EXP)
+Designed for brief projects with rapid changes, high uncertainty, and risks. Notably, EXPpermits plan, budget, and even outcome modifications.
+
+Process-Based Methods
+For projects resembling an assembly line for building a car, Lean and Six Sigma methodsare suitable.
+
+Lean manufacturing (Lean methodology) targets elimination of non production consts and product defects, striving to minimize losses.
+
+Six Sigma focuses on loss minigation and process excelleration.
+
+
+
+
+Event Chain methodology
+-----------------------
+
+A project management techniques that focuses on identifying and managing potential risks and opportunities for raising an external events that could impact the projects schedule, course or outcome. This approach helps Project Managers proactively address incertenties and develop continue sheetplans to mitigate negative impact by levarage positive opportunities.
+
+
+ |
+ | Event 1 ------
+ v               \
+----------        \
+|        |----    | Event 2 ---
+----------   |    v	      |
+	    ----------	      |
+	    |        |----    | Event 3
+	    ----------   |    |
+			 v    v
+			----------
+			|        |
+			----------
+
+
+The Event Chain Methodology (ECM) is a project management technique thatfocuses on identifying and managing potential risks and opportunities arising fromexternal events that could impact the project schedule, cost, or outcome
+
+Example
+-------
+
+- Identify events - In this spet Project Managers identify external events that may affect the project. This events may be positive or negative and can include factors such as weather conditions, regolatory changes, supplier delays ot technological advancments.
+Example: Imagine a construction project to build a new office building. An external event could be a sudden change in weather, such as heavy rainfall, that could delay the construction schedule.
+
+
+- Assess impact - For each identified event the project team assesses its potential impact on the project scope, schedule, budget and quality. This step helps prioritize events based on their significants.
+Example: In the construction project, heavy rainfall could cause delays in pouring the foundation, leading to schedule overruns and increased costs due to extended labor and material expense.
+
+
+- Determine event chains - Refer to sequences of events that can be triggered by a preseiding event. This chains help Project Managers visualize how one event can leed to others either positive or negative.
+Example: The delay caused by heavy rainfall could trigger a chain of events, such as delayed deliveries of construction materials, rescheduled contractor availability, and an extended overall project timeline.
+
+
+- Quantify probabilities - For each event estimate the probability of its occuranse. This step helps Project Managers prioritize and allocate resources to manage events with high probabilities.
+Example: The probability of heavy rainfall during the construction period can be estimated based on historical weather data for the region.
+
+
+- Develop mitigation strategies - For negative events create continuation plans to reduce their impact and for positive events identify strategies to exploit them.
+Example: To mitigate the impact of heavy rainfall, the construction project team could arrange for temporary covers or implement alternate construction methods that are less affected by rain.
+
+
+- Monitor and update - Continiously monitores the project and the external environmental changes that could trigger events. So regulary update event chains as new information become available.
+Example: If weather forecasts indicate an increased likelihood of heavy rainfall, the project team may need to adjust the construction schedule or take additional preventive measures.
+
+
+In essense the Event Chain methodology helps Project Managers be proactive rather than reactive. It encourage them to consider external factors and their potential impacts on the project allowing for better planning and risk management. So by addressing eventual events before they occur, project teams can minimize disruptions and improve the project changes for success.
+
+
+The Lean methodology
+=-=-=-=-=-=-=-=-=-=-
+
+The Lean methodology, often referred to as Lean thinking or Lean principles, is asystematic approach to optimizing processes and maximizing value whileminimizing waste. It originated in manufacturing but has since been applied tovarious industries and fields, including software development, healthcare, and more.The core idea behind Lean is to deliver value to customers efficiently by identifyingand eliminating activities that don't contribute to that value.
+
+
+
+Principles of Lean methodology
+------------------------------
+
+						Value
+						Stream
+						------
+
+			Value						Flow
+			-----			LEAN			----
+						PRINCIPLES
+		
+				
+				Perfection			Pull
+				----------			----
+
+Value - Define the value of the prospective of the customer. What actually they need or want. Anithing that doesn't count with this value is considered waste.
+
+Value Stream - Identify the steps or processes required to deliver the value to the customer. This involve mapping out the entire process from start to finish. 
+
+flow - Optimize the value stream to ensure smooth and continious flow of work reducing bottle necks and delays.
+
+Pull - Rather than pushin products or services into the process, use pull based approach where work is initiated based on the actual customer demand. This helps prevent overproduction and reduce waste.
+
+Perfection - continiously strive for imporvement, encourage the culture of continious learning, problem solving and innovation.
+
+
+
+
+Example: Pizza delivery
+- - - - - - - - - - - -
+
+- Value -
+The value is delivering fresh and delicious pizzas to customers' homes in a timely manner.
+
+- Value Stream -
+The value stream includes order taking, pizza preparation, baking, packaging, and delivery.
+
+- Flow -
+The business identifies that the pizza preparation step is causing delays due to inefficiencies. They rearrange the kitchen layout to optimize the flow of ingredients and cooking equipment. This reduces waiting time and streamlines the process.
+
+- Pull -
+Instead of making pizzas in advance, the business starts making pizzas based on incoming orders. This prevents the wastage of ingredients and ensures that each pizza is made when there's actual demand.
+
+- Perfection -
+The business regularly collects customer feedback and data on delivery times. They identify that delivery times can be further reduced by optimizing delivery routes using GPS technology. Additionally, they invest in training to improve customer service during deliveries.
+
+
+
+
+Six sigma
+=-=-=-=-=
+This concept was developed in the 1980s by Motorola in order to reducedeviations in the production processes of electronic components. It wasbased on statistical methods of process management, and the work of aJapanese specialist in the field of quality Genichi Taguchi.
+
+Six Sigma is a data-driven methodology aimed at improving process quality, reducing defects, and minimizing variations in any type of business or industry. It focuses on identifying and eliminating the causesof errors and defects to achieve a high level of quality and consistency inproducts or services.
+
+
+
+Six sigma scheme
+----------------
+
+Employs a structured approach using set of tools and techniques to measure, analyze, improve and control processes. The methodology is tipicaly 5 phase approach.
+
+
+
+						Define
+						------
+
+			Control						Measure
+			-------						-------
+
+		
+				
+				Improve				Analyze
+				-------				-------
+
+
+Define - Clearly define the problem, project tools and customer requirements, identify the key metrics that need improvemvnt.
+
+Measure - Collect data to understand the current state of the process and quanitfy the extend of the problem. This involves Identify relevant processes metrics and iestablisi=hing a base line.
+
+Analyze - Analysis the collect data to identify the root causes of defects and variations. This phase helps in understanding which factors are contributing to the problem.
+
+Improve - Develop and implement solustions to address the identified root causes. This solutions are focused on reducing defects and improve process efficiency.
+
+Control - Put mechanisms in place to sustain improvements over time. This involves setting up monitoring systems, create a standard operating procedures, training personnel to ensure that the process remains at the desired quality level.
+
+
+
+Example: Call Center process improvement
+----------------------------------------
+
+- Define -
+The problem is defined as high call wait times and customer dissatisfaction. The goal is to reduce call wait times and improve customer satisfaction.
+
+- Measure -
+Data is collected on call volume, wait times, call duration, and customer feedback. The current average wait time is found to be 15 minutes, and customer feedback indicates frustration due to long wait times.
+
+- Analyze -
+Through analysis, it's discovered that the call routing system is not optimized, leading to inefficient call distribution among agents. Additionally, some agents lack proper training in resolving certain types of inquiries, leading to longer call durations.
+
+- Improve -
+Solutions are implemented. The call routing system is redesigned to allocate calls more evenly among agents based on their expertise. Agent training is enhanced to cover a broader range of issues, reducing call duration.
+
+- Control -
+Monitoring systems are established to track call volume, wait times, and customer satisfaction. Regular agent training sessions are scheduled to ensure ongoing improvement.
+
+
+After implementing these changes, the call center's average wait time reduces to 5 minutes, and customer feedback indicates increased satisfaction due to quicker and more effective resolutions.
+
+
+Six Sigma focus on continues improvements by using data insides and methodologies. It important to note that Six Sigma requires strong lideship commitment, training personnel and a culture of continious improvement to acheave full benefits.
+
+
+
+
+
+
+7. Examples of PM and Agile approaches at Software and Product Development
+==========================================================================
+
+
+CONTENT
+-------
+Rapid application development at high speed
+Launch of novel products
+Reengineering empowered by packaged solutions
+
+
+Rapid application development at high speed
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Software development teams often opt for the high-speed application developmentmodel, a preferred project management approach. This model fosters interaction throughstructured techniques. This teams craft prototypes to pin point user requirements and continiously refining them. They iterate the cycle frequent during development to optimize product quality and enhance user service. Operating swiftly these teams deferes supstancial design enchancement for foreward coming software production or update cycles.
+
+The high-speed application development method suits teams less reliant on long-termengagement and in-depth development of intricate tasks. Their forte lies in managinglightweight applications and rapid development cycles
+
+
+Example: Development of a social media management tool
+------------------------------------------------------
+
+Product: Development of the social media management tool.
+Scenario: Software development comapny aims to create comprehensive social media  management tool that allows users to schedule posts, analyze engagement and manage multiple platforms. The company wnats to deliver a functional prototype as quick as possible to gain user feedback and reiterate on features.
+
+- Requirements gathering - 
+A small team of developers, designers, and stakeholders meet to discuss the tool's main features and user requirements. They identify the core functionalities required for the initial version.
+
+- Prototyping -
+The team quickly creates a visual prototype of the user interface using wireframing tools. This prototype focuses on the primary user flows and interactions.
+
+- Iterative development -
+Developers begin building the functional components of the social media management tool. They prioritize the core features identified in the requirements gathering phase.
+
+- Fast Turnaround -
+The team follows short development cycles, aiming to deliver working features quickly. They work in two-week sprints, completing specific features within each sprint.
+
+- User feedback -
+Once the prototype is functional with the core features, it is shared with a small group of beta users, which could include internal team members or select external users. User feedback is collected to identify any usability issues or feature suggestions.
+
+- Rapid iteration - 
+Based on the feedback received, the team iterates on the prototype, making improvements and addressing any identified issues. This may involve adding new features, refining existing ones, and enhancing the user interface.
+
+- Incremental enhancement -
+As the project progresses, additional features are added in subsequent sprints. Each sprint results in a more comprehensive and functional version of the social media management tool.
+
+- User testing -
+Regular usability testing is conducted with users to ensure that the tool meets their needs and expectations. This ongoing testing helps identify and rectify any usability or performance issues.
+
+- Final polishing -
+In the final phase, the team focuses on fine-tuning the tool's performance, optimizing its user interface, and addressing any remaining issues.
+
+By applying the rapid application development approach at high speed, the software development company acheaves the following outcomes:
+- a social media management tool product that is developed rapidly
+- user feedback is incorporate early in the development process leading to improved user experience
+- the company gains a competative advantage by delivering a useful tool to the market quickly and the development allows for continuous improvement and refinment based on the user needs.
+
+In this example, the RAD approach at high speed enables the software development team to create a functional prototype of a social media management tool quickly, receive valuable feedback, and iteratively enhance the tool to meet user requirements.
+
+
+
+
+Launch of novel products
+=-=-=-=-=-=-=-=-=-=-=-=-
+
+New product introduction
+
+New Product Introduction (NPI) is a project management approach focused onsuccessfully launching a new product into the market. It involves coordinatingvarious activities and tasks to ensure the product's successful introduction, fromdesign and development to manufacturing, marketing, and distribution. NPI aimsto optimize the process of bringing a product from concept to market whilemeeting customer demands and business goals
+
+
+
+New product introduction:
+-------------------------
+
+Stages:
+
+Market   --> Desing  -->  Manufactoring --> Cross-funtional --> Marketing  --> Testing and --> Distribution --> Launch and -> Feed
+research     and	  preparation       collaboration 	promotion      quality         and sales        custommer     back
+	     development                                                       assurance       channels	        supprot 
+
+
+
+Example: Launching a smart home security system
+-----------------------------------------------
+
+Scenario: An electronics company aims to introduce a new smart home security system that includes cameras, motion sensors and a central control hub. The goal is to top into the growing marken demand for home automation and security solutions.
+
+- Market research -
+The company conducts market research to identify customer needs, preferences, and competitors. Based on the research, they develop the concept for the smart home security system, outlining its features and capabilities.
+
+- Design and development -
+The engineering team works on designing the hardware and software components of the system. Prototypes are developed and tested to ensure functionality, ease of use, and compatibility.
+
+- Manufacturing preparation -
+As the design nears completion, the manufacturing team starts planning for mass production. They source materials, evaluate suppliers, and establish production processes to ensure scalability and quality.
+
+- Cross-functional collaboration -
+The NPI project involves cross-functional teams, including engineering, manufacturing, marketing, sales, and customer support. Regular meetings and communication ensure that everyone is aligned and aware of the project's progress.
+
+- Marketing and promotion -
+The marketing team creates a comprehensive marketing strategy to generate awareness and excitement around the upcoming smart home security system launch. This includes creating promotional materials, planning product demonstrations, and developing online and offline marketing campaigns.
+
+- Testing and quality assurance -
+Rigorous testing is conducted on both individual components and the integrated system to identify and address any issues or defects. Quality assurance ensures that the product meets performance, safety, and regulatory standards.
+
+- Distribution and sales channels -
+The company determines the distribution strategy, including selecting retail partners, ecommerce platforms, and other sales channels. They establish inventory levels to meet anticipated demand.
+
+- Launch and customer support -
+The smart home security system is officially launched, and the marketing efforts go into full swing. Customer support teams are trained to provide assistance and resolve any issues that customers may encounter.
+
+- Feedback collection -
+After the launch, the company actively collects feedback from customers to understand their experiences and identify areas for improvement. This feedback loop informs future product updates and enhancements.
+
+To affect new product introduction the electronic company successful launch smart home security system. The product is well received by customers due to its features and ease of use. Marketing efforts lead to visability and stron initial sales. Manufactoring processes are efficient resulting in consistent product quality and customer support teams effectively address any issues that arise postlaunch.
+
+In this example, the New Product Introduction approach ensures that the smart home security system is introduced to the market smoothly, meeting customer expectations and achieving business objectives.
+
+
+
+
+Packaged enabled reengineering
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Packaged Enabled Reengineering is a project management approach that involvesthoroughly reevaluating and redesigning an organization's processes, strategies, andoperations using innovative solutions and technologies. This method aims toachieve significant improvements in efficiency, effectiveness, and overallperformance by discarding outdated practices and embracing new approaches
+
+
+
+Packaged enabled reengineering process
+--------------------------------------
+
+Process	   -->  Innovative  -->  Redesign --> Training and  -->  Implementation --> Testing and  --> Rollout and
+Assessment	solution		      Change management			    optimization     constinuous
+												     improvement
+
+
+Example: Reengineering customer support processes
+-------------------------------------------------
+
+Scenario: Mid sized e-commers company is facing challanges with its customers support operations. Customer complaints are often not addressed promptly leading to customer dissatisfaction and negative reviews. The company current support processes are manual and formatic that leads to delays and inefficiancies. What the comapny should do using the package enabled reengineering approach?
+
+- Process assessment -
+The project team conducts a thorough assessment of the existing customer support processes, identifying bottlenecks, delays, and areas for improvement.
+
+- Innovative solutions -
+The team explores modern customer support management software that integrates ticketing, communication channels, and automation capabilities. This software offers streamlined case management, automatic ticket assignment, and real-time analytics.
+
+- Redesign -
+Instead of trying to patch up the existing processes, the team decides to completely redesign the customer support workflow. They envision a new process that leverages the capabilities of the chosen software to provide a seamless and efficient customer experience.
+
+- Training and change management -
+As part of the reengineering effort, the team plans comprehensive training for customer support agents to ensure a smooth transition to the new system. Change management strategies are put in place to address any resistance to the changes and ensure buy-in from stakeholders.
+
+- Implementation -
+The new customer support software is integrated and customized to meet the company's specific needs. The reengineered process includes automatic ticket assignment based on agent availability and expertise, a unified dashboard for tracking cases, and automated responses for common queries.
+
+- Testing and optimization -
+Before fully deploying the new process, the team conducts thorough testing to ensure that it operates as intended. Feedback from initial testing is used to make necessary adjustments and refinements.
+
+- Rollout and continuous improvement -
+The reengineered process is rolled out to the entire customer support team. Ongoing monitoring and feedback collection are established to continuously optimize the process based on real-world usage and performance data.
+
+Results: After implementing Packaged enabled reengineering the ecommers company experienced significant improvements in its customers support operations.
+- Customers complaints are addressed prmptly that lead to improved customer satisfaction
+- Support agents are more efficient due to strem-line and automated processes
+- Real time analytics provide insights into customers issues and agent perforamce
+- Company repotation imrpoves as positive reviews increase and negative reviews decrease
+
+In this example, Packaged Enabled Reengineering led to a comprehensive overhaul of customer support processes, resulting in enhanced efficiency, customer satisfaction, and overall business performance.
+
+
+
+
+
+
+
+
+8. Examples of PM and flexible approaches in IT
+===============================================
+
+Content
+-------
+Project management in IT
+
+
+Project management in IT
+=-=-=-=-=-=-=-=-=-=-=-=-
+
+The domain of IT project management encompasses the oversight of tasks spanning fromequipment installation and network modernization to software development, creation ofvirtual environments and cloud computing, data management systems, business analytics,and the integration of assorted IT services
+
+
+Within the IT domain, project management can traversethree distinct project life cycles
+---------------------------------------------------------------------------------------
+
+- Predictable (Waterfall) -
+This traditional approach remains significantly prevalent even in the 2010s. It entailsa step-by-step linear algorithm guiding the project's progression
+
+- Iterative -
+A contemporary approach characterized by incremental expansion of softwarefunctionality with each successive release within the project's scope.
+
+- Adaptive -
+Employing methods such as Agile and Scrum, this approach acknowledges thatcompany objectives and developmental strategies can evolve irrespective of theinitial plan
+
+
+
+Extreme programming
+=-=-=-=-=-=-=-=--=-
+Extreme Programming (XP) is an agile software development methodology thatemphasizes close collaboration among team members, continuous feedback, anddelivering high-quality software rapidly. It aims to address the challenges ofchanging requirements, enhance developer productivity, and produce reliablesoftware through a set of practices and principles. XP is particularly well-suited forprojects with evolving requirements and a need for rapid, iterative development
+
+
+Extreme programming principles
+------------------------------
+Customer involvement - customers are involved during development process, providing continuous feedback and clarify the requirements.
+Continuous feedback - frequesnt communication and feedback loops that help indentifying and address issues early in the development process. 
+Small releases - the software is delivered in small, incremental releases with early user feedback and quick adaptation to changes.
+Simple design - infaces to create a simple and efficient design that meet the current requiremnts.
+Test-driven development (TDD) - Developerns writing tests before writing code ensuring thet the code meet the specified requirements.
+Pair programming - 2 programmers work together at the same working station with one writing code and the other rview in real time.
+Collective code ownership - all team members have responsibility and authority to modify any part of the codebase. 
+Continuous integration - Tjhe code changes are integrated frequently into the main codebase helping to identify issues early.
+Sustainable pace - Developers work at sustainable pase to avoid burnouts and lock work productivity.
+
+
+
+Example: Online E-Commerce platform
+-----------------------------------
+
+Scenario: A team is developing a e-commers platform where customers can browse products, add them to their card and proceed to checkout.
+
+- Customer involvement -
+The development team collaborates closely with the product owner (customer representative) to understand and prioritize features.
+
+- Continuous feedback -
+Frequent meetings are held with the product owner to discuss progress, gather feedback, and adjust priorities.
+
+- Small releases -
+The team releases a minimum viable product (MVP) that allows customers to browse products. Users provide feedback on the user interface and functionality.
+
+- Test-driven development (TDD) -
+Developers write test cases for key functionalities, such as adding items to the cart and processing payments, before writing the corresponding code.
+
+- Pair programming -
+Two developers work together on critical components, such as the checkout process. This promotes code quality and knowledge sharing.
+
+- Collective code ownership -
+Any team member can review and modify code. This flexibility allows for quick responses to changing requirements.
+
+- Continuous integration -
+Code changes, such as new features or bug fixes, are integrated into the main codebase multiple times a day to ensure that everything works together.
+
+- Sustainable pace -
+Developers follow a steady work pace to maintain productivity and avoid errors caused by rushing.
+
+
+
+Extreme Project Management
+=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Extreme Project Management (XPM) is an approach that addresses projectscharacterized by high uncertainty, rapid change, and complex environments. Itembraces flexibility, adaptability, and creativity to manage projects that may nothave well-defined requirements or clear paths to completion.
+
+Extreme Project Management focuses on delivering value incrementally, making quick decisions and maintaining a collaborative team dynamics. Is often used for projects in dynamic inductries like software development, new product development or inovative features. 
+
+
+Extreme project management principles
+-------------------------------------
+Embrace change - EX acknowledge that change is inavoidable and plans for it. Flexability and addaptability are key to success.
+Incremental value delivery - Project are broken down into smaller managable chunks that deliver value to stakeholders in a shorter timeframe. 
+Fast decision-making - quick decisions are made based on available information preventing prolonging and delays.
+Intense collaboration - team members stakeholders and customers collaborate closely trueout the project to adapt to changes and make informed decision.
+Risk management - risks are identified early and strategies to mitigate or respond to them are developed.
+Empowerment - team members are empoered to make decisions and take ownership of their work.
+
+
+Example: Developing a mobile app in a rapidly changing market
+-------------------------------------------------------------
+
+Scenario: A software development company is tasked of development of a mobile app for a new social networking concept. The market is higly competative and transchange rappidly so the project requires quick addaptation to user feedback and industry shifts.
+
+- Embrace change -
+The project team recognizes that user preferences and market demands can shift rapidly. The project plan is designed to accommodate changing requirements and evolving strategies.
+
+- Incremental value delivery -
+The team divides the app's development into small iterations called sprints. Each sprint aims to deliver a valuable subset of features.
+
+- Fast decision-making -
+When a design or feature choice is needed, the team doesn't spend excessive time deliberating. Decisions are made promptly based on the current understanding of user needs.
+
+- Intense collaboration -
+Regular meetings are held with stakeholders, including potential users, to gather feedback. This feedback informs the direction of the app's development.
+
+- Risk management -
+Potential risks, such as changes in user preferences or unexpected competition, are identified early. Contingency plans are developed to respond to these risks.
+
+- Empowerment -
+Developers are encouraged to take ownership of their work and make decisions that align with the project's goals.
+
+In this example, Extreme project management enables the software development team to navigate the uncertainties of the rapidly changing market and deliver a successful mobile app by embracing change, focusing on incremental value delivery, and fostering intense collaboration.
+
+
+
+
+PRINCE2
+=-=-=-=
+
+PRINCE2 (Projects IN Controlled Environments) is a widely recognized projectmanagement framework used for managing projects across various industries. Itprovides a structured approach to project management, emphasizing clear roles,responsibilities, and processes.
+
+PRINCE2 principles
+------------------
+Business justification - projects should have a valid and ongoing business visions to justify their existence.
+Learn from experience - continuously learn from past projects both successufl and unsuccessful to improve future project outcomes. 
+Defined roles and responsibilities - clear defined roles and responsibilities of the project team members and stakeholders. 
+Manage by stages - devide the project into managable stages with specific goals and checkpoints.
+Manage by exception - define tolerances for key project parameters like time, cost and quality and empower management to makke decisions within this tolerances.
+Focus on products - define project delivarables and quality criteria before work begins. 
+Tailor to suit the project environment - adapt the prince2 to the project scale, complexity and specific requirements. 
+
+
+Example: Construction of a new office building
+----------------------------------------------
+
+Scenario: A real estate development company is tasked with constructing a new office building for a corporate client.
+
+- Business justification -
+The project is initiated because the corporate client requires expanded office space to accommodate their growing workforce.
+
+- Learn from experience -
+The project team reviews lessons learned from past construction projects to avoid potential pitfalls and adopt successful practices.
+
+- Defined roles and responsibilities -
+The project manager, architects, contractors, and stakeholders have well-defined roles and responsibilities outlined in the project plan.
+
+- Manage by stages -
+The construction project is divided into stages, such as Design, Site Preparation, Foundation, Structural Work, Interior Design, and Finalization.
+
+- Manage by exception -
+Tolerances are set for cost, schedule, and quality. The project manager has the authority to make decisions within these tolerances. For instance, if the project's cost is projected to exceed the budget by more than 10%, the project board is informed for further action.
+
+- Focus on products -
+Deliverables are clearly defined, including architectural blueprints, construction materials, completed floors, and interior furnishings. Quality criteria are established for each deliverable.
+
+- Tailor to suit the project environment -
+The PRINCE2 methodology is adapted to fit the specific context of the construction project, considering factors like project size, complexity, and regulations.
+
+By applying PRINCE2 the real estate development company effectively manage the construction project ensuring that it stays on track within budget and meets the client quality expectations. The structural approach helped streamline communication, minimize risks, infacilitate decision making trueout the project lifecycle.
+
+
+
+
+
+
